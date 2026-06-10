@@ -12,19 +12,20 @@ Initially, I found it a bit overwhelming to dive into such a well-established co
 ### First Steps
 
 The first real hurdle I faced was understanding the overall architecture of the project and how the R functions interact with the underlying C codebase. It took some time to get familiar with the design patterns and how various components of the package work together under the hood. Diving into older GitHub issues, pull requests, and discussions provided valuable historical context and helped me gradually build a clearer understanding of the system.
-### Why GSoC?
 
-Once I learned that `data.table` was participating in **Google Summer of Code**, I knew it was the opportunity I had been preparing for. I began drafting a proposal that aligned with the existing roadmap and addressed areas I believed I could contribute to meaningfully—performance optimizations, bug fixes, and documentation improvements.
+### Why GSoC Again... 
 
-The support from the mentors and community has been phenomenal. They are always encouraging, give detailed code reviews, and help ensure that each contribution moves the project forward.
+Being selected for **Google Summer of Code 2025** with `data.table` was a major milestone in my open-source journey. The experience not only strengthened my technical skills but also deepened my connection with the community and the project itself.  
+
+Coming back for **GSoC 2026** feels like a natural continuation of that journey—an opportunity to contribute at a deeper level, take on more impactful challenges, and keep improving a project I genuinely enjoy working on.
+
+The mentorship and support from the `data.table` community continue to be incredible. Every review and discussion has helped me grow as both a developer and an open-source contributor.
 
 ### What’s Next?
 
-As I officially begin my GSoC journey, I am incredibly excited and motivated to work alongside the brilliant minds behind `data.table`. I aim to:
-- Close several long-standing issues and improve user experience.
-- Enhance performance in grouped operations.
-- Simplify and improve documentation for new users and contributors.
+As I begin another exciting GSoC journey with `data.table`, my focus will be on:
+- Resolving impactful long-standing issues.
+- Improving performance and usability across core features.
+- Making documentation and contributor workflows more beginner-friendly.
 
-This opportunity is not just a summer project for me—it's a launchpad into long-term open source contribution and collaborative software development.
-
-Stay tuned for updates as I continue this exciting journey with the `data.table` team!
+I’m excited to continue learning, contributing, and collaborating with the amazing `data.table` team throughout the summer and beyond.
