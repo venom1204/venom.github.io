@@ -39,6 +39,7 @@ options(datatable.unique.names = "warn")
 with configurable behaviors like "warn", "error", "rename", or "off".
 
 The idea is to create a scalable and consistent framework for safer duplicate-name handling across data.table.
+
 ---
 
 The first week has already involved a mix of implementation work, design discussions, and documentation improvements. Looking forward to contributing more throughout the summer!
